@@ -31,7 +31,7 @@ body {
 
 /*hero section*/
 .hero-section {
-    background-image: url(heroBG.png);
+    background-image: url('../images/heroBG.png');
     background-size: cover;
     background-position: center;
     color: #fff;
